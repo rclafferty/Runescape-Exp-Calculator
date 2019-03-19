@@ -1,0 +1,43 @@
+14
+Air Tiara
+1
+25
+Air Rune
+1
+5
+Body Tiara
+1
+37.5
+Body Rune
+20
+7.5
+Earth Tiara
+1
+32.5
+Earth Rune
+9
+6.5
+Fire Tiara
+1
+35
+Fire Rune
+14
+7
+Mind Tiara
+1
+27.5
+Mind Rune
+2
+5.5
+Nature Tiara
+1
+45
+Nature Rune
+44
+9
+Water Tiara
+1
+30
+Water Rune
+5
+6

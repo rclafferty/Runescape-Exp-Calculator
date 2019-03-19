@@ -1,0 +1,85 @@
+28
+Air Tiara
+1
+25
+Air Rune
+1
+5
+Astral Rune
+40
+8.7
+Body Tiara
+1
+37.5
+Body Rune
+20
+7.5
+Chaos Tiara
+1
+42.5
+Chaos Rune
+35
+8.5
+Cosmic Tiara
+1
+40
+Cosmic Rune
+27
+8
+Death Tiara
+1
+50
+Death Rune
+65
+10
+Earth Tiara
+1
+32.5
+Earth Rune
+9
+6.5
+Fire Tiara
+1
+35
+Fire Rune
+14
+7
+Lava Rune
+23
+10.5
+Law Tiara
+1
+47.5
+Law Rune
+54
+9.5
+Mind Tiara
+1
+27.5
+Mind Rune
+2
+5.5
+Mist Rune
+6
+8
+Mud Rune
+13
+9.3
+Nature Tiara
+1
+45
+Nature Rune
+44
+9
+Smoke Rune
+15
+9.5
+Steam Rune
+19
+10
+Water Tiara
+1
+30
+Water Rune
+5
+6

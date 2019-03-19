@@ -1,0 +1,202 @@
+67
+Abyssal Demon
+124
+600
+Al-Kharid Warrior
+9
+74
+Ankou
+82
+260
+Asyn Shade
+100
+368
+Baby Blue Dragon
+48
+200
+Baby Red Dragon
+65
+268
+Bandit
+41
+120
+Bandit (Desert)
+57
+200
+Barbarian (Level 9)
+9
+14
+Barbarian (Level 10)
+10
+18
+Barbarian (Level 17)
+17
+96
+Black Demon
+172
+628
+Black Dragon
+227
+796
+Black Knight
+33
+168
+Blue Dragon
+111
+436
+Chicken
+1
+12
+Cows
+2
+32
+Dagannoth (Level 74)
+74
+284
+Dagannoth (Level 92)
+92
+492
+Dark Wizard
+7
+48
+Deadly Red Spider
+34
+140
+Earth Warrior
+51
+216
+Elemental Wizards
+13
+100
+Experiment
+25
+400
+Fire Giant
+86
+444
+Firy Shade
+120
+440
+Giant Skeleton
+80
+284
+Giant Spider
+50
+200
+Gnome Troop
+1
+8
+Goblin (Level 2)
+2
+20
+Goblin (Level 5)
+5
+52
+Goblin (Level 13)
+13
+60
+Greater Demon
+92
+356
+Green Dragon
+79
+340
+Guard
+21
+88
+Hill Giant
+28
+140
+Hobgoblin (Level 28)
+28
+116
+Hobgoblin (Level 42)
+42
+196
+Iban Disciple
+13
+80
+Ice Warrior
+57
+236
+Jail Guard
+26
+104
+Jungle Spider
+44
+200
+Khazard Guard
+23
+100
+Khazard Trooper
+19
+88
+Lesser Demon
+82
+316
+Loar Shade
+40
+156
+Magic Axe
+42
+180
+Man / Woman
+2
+28
+Monk
+5
+64
+Monkey Guard
+167
+480
+Moss Giant
+42
+240
+Ogre
+53
+240
+Phrin Shade
+60
+224
+Pirate (Level 23)
+23
+80
+Pirate (Level 26)
+26
+92
+Red Dragon
+152
+580
+Riyl Shade
+80
+296
+Rock Crab
+13
+200
+Shadow Warrior
+48
+272
+Skeleton (Level 21)
+21
+96
+Skeleton (Level 22)
+22
+116
+Skeleton (Level 25)
+25
+112
+Skeleton (Level 45)
+45
+236
+Thug
+10
+72
+White Knight
+36
+212
+Wolfman / Wolfwoman
+88
+400
+Yak
+22
+200

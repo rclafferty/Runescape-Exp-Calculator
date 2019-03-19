@@ -1,0 +1,67 @@
+21
+Asyn Remains
+1
+79.5
+Baby Dragon Bones
+1
+30
+Bat Bones
+1
+5.2
+Big Bones
+1
+15
+Bones
+1
+4.5
+Burnt Bones
+1
+4.5
+Dagannoth Bones
+1
+125
+Dragon Bones (Buried)
+1
+72
+Dragon Bones (Alter)
+1
+252
+Fayrg Bones
+1
+84
+Fiyr Remains
+1
+100
+Ghast
+1
+30
+Lava Dragon Bones
+1
+85
+Loar Remains
+1
+25
+Monkey Bones
+1
+5
+Ourg Bones
+1
+140
+Phrin Remains
+1
+37.5
+Raurg Bones
+1
+96
+Riyl Remains
+1
+61
+Wolf Bones
+1
+4.5
+Wyvern Bones
+1
+72
+Zogre Bones
+1
+22.5

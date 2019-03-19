@@ -1,0 +1,154 @@
+51
+Apple Tree
+27
+1221
+Avantoe
+50
+54.5
+Banana Tree
+33
+1779
+Belladonna (Nightshade)
+63
+91
+Bittercap Mushroom
+53
+41
+Cabbage
+7
+10
+Cactus Plant
+55
+431
+Cadantine
+67
+107
+Cadavaberry Bush
+22
+120.5
+Calquat Tree
+72
+12226
+Curry Tree
+42
+2947
+Dwarf Weed
+79
+170
+Dwellberry bush
+36
+209
+Goutweed
+29
+105
+Guam
+9
+11
+Harralander
+26
+22
+Irit Leaf
+44
+43
+Jangerberry Bush
+48
+205.5
+Kwuarm
+56
+69
+Lantadyme
+73
+135
+Limpwurt Plang
+26
+21
+Magic Tree
+75
+13913
+Maple Tree
+45
+3448.5
+Marigold
+2
+8.5
+Marrentil
+14
+13
+Nasturtium
+24
+19.5
+Oak (Acorn) Tree
+15
+485.5
+Onion
+5
+10
+Orange Tree
+39
+2505.5
+Palm Tree
+68
+10211
+Papaya Tree
+57
+6219
+Pineapple Plant
+51
+4662.5
+Poison Ivy Bush
+70
+794
+Potato
+1
+8
+Ranarr Weed
+32
+26.5
+Redberry Bush
+10
+72.5
+Rosemary
+11
+12
+Snapdragon
+62
+87
+Sorceresss Garden Herb Patch
+1
+50
+Spirit Tree
+83
+19501.3
+Strawberry
+31
+26
+Sweetcorn
+20
+17
+Tarromin
+19
+16
+Toadflax
+38
+34
+Tomato
+12
+12.5
+Torstol
+85
+199.5
+Watermelon
+47
+49
+Whiteberry Bush
+59
+516
+Willow Tree
+30
+1481
+Woad
+25
+20.5
+Yew Tree
+60
+7214.5

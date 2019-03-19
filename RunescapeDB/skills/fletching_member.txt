@@ -1,0 +1,223 @@
+74
+Adamant Arrow
+60
+11.5
+Adamant Bolt
+61
+7
+Adamant Brutal Arrow
+62
+10.2
+Adamant Crossbow
+61
+164
+Adamant Dart
+67
+15
+Arrow Shaft
+1
+0.33
+Barbed Bolt
+51
+9.5
+Black Brutal Arrow
+38
+6.3
+Blurite Crossbow
+24
+64
+Broad Bolts
+55
+3
+Bronze Arrow
+1
+2.63
+Bronze Bolt
+9
+0.5
+Bronze Brutal Arrow
+7
+1.5
+Bronze Crossbow
+9
+24
+Bronze Dart
+1
+1.8
+Composite Ogre Bow
+30
+90
+Composite Ogre Bow (u)
+30
+45.5
+Diamond Bolt
+65
+7
+Dragon Arrow
+90
+15
+Dragon Dart
+95
+25
+Dragonstone Bolt
+71
+8.2
+Emerald Bolt
+58
+5.5
+Headless Arrow
+1
+1
+Iron Arrow
+15
+3.83
+Iron Bolt
+39
+1.9
+Iron Brutal Arrow
+18
+2.6
+Iron Crossbow
+39
+88
+Iron Dart
+22
+3.2
+Jade Bolt
+26
+2.4
+Longbow
+10
+20
+Longbow (u)
+10
+10
+Magic Longbow
+85
+183
+Magic Longbow (u)
+85
+91.5
+Magic Shortbow
+80
+166.5
+Magic Shortbow (u)
+80
+83.25
+Maple Longbow
+55
+116.5
+Maple Longbow (u)
+55
+58.25
+Maple Shortbow
+50
+100
+Maple Shortbow (u)
+50
+50
+Mithril Arrow
+54
+8.83
+Mithril Bolt
+54
+5
+Mithril Brutal Arrow
+49
+7.5
+Mithril Crossbow
+54
+128
+Mithril Dart
+52
+11.2
+Oak Longbow
+25
+50
+Oak Longbow (u)
+25
+25
+Oak Shortbow
+20
+33
+Oak Shortbow (u)
+20
+16.5
+Onyx Bolt
+73
+9.4
+Opal Bolts
+11
+1.6
+Pearl Bolts
+41
+3.2
+Red Topaz Bolts
+48
+3.9
+Ruby Bolts
+63
+6.3
+Rune Bolts
+69
+10
+Rune Crossbow
+69
+200
+Runite Arrow
+75
+15
+Runite Brutal Arrow
+77
+12.5
+Runite Dart
+81
+18.8
+Sapphire Bolt
+56
+4.7
+Shortbow
+5
+10
+Shortbow (u)
+5
+5
+Steel Arrow
+30
+6.33
+Steel Bolt
+46
+3.5
+Steel Brutal Arrow
+33
+5.2
+Steel Crossbow
+46
+108
+Steel Dart
+37
+7.5
+Willow Longbow
+40
+83
+Willow Longbow (u)
+40
+41.5
+Willow Shortbow
+35
+66.5
+Willow Shortbow (u)
+35
+33.25
+Yew Longbow
+70
+150
+Yew Longbow (u)
+70
+75
+Yew Shortbow
+65
+133
+Yew Shortbow (u)
+65
+66.5

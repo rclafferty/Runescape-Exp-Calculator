@@ -1,0 +1,394 @@
+131
+Annakarl Teleport
+90
+100
+Ape Atoll Teleport
+64
+74
+Ardougne Teleport
+51
+61
+Armour Piercing
+57
+67
+Bake Pie
+65
+60
+Barbarian Teleport
+75
+76
+Bind
+20
+30
+Blood Forfeit
+49
+59
+Blood Barrage
+92
+51
+Blood Blitz
+80
+45
+Blood Burst
+68
+39
+Blood Rush
+56
+33
+Bones To Peaches
+60
+65
+Bones To Bananas
+15
+25
+Boost Potion Share
+84
+88
+Camelot Teleport
+45
+55.5
+Carrallangar Teleport
+84
+94
+Charge
+80
+85
+Charge Air Orb
+66
+76
+Charge Earth Orb
+60
+70
+Charge Fire Orb
+63
+73
+Charge Water Orb
+56
+66
+Claws of Guthix
+60
+35
+Clear Mind
+7
+17
+Confuse
+3
+13
+Crumble Undead
+39
+24.5
+Cure Group
+74
+74
+Cure Me
+71
+69
+Cure Other
+68
+65
+Cure Plant
+66
+60
+Curse
+19
+29
+Dareeyak Teleport
+78
+88
+Down To Earth
+29
+39
+Dragons Breath
+68
+78
+Dream
+79
+82
+Earth Blast
+53
+31.5
+Earth Bolt
+29
+19.5
+Earth Strike
+9
+9.5
+Earths Fury
+14
+19
+Enchant Level 1 Jewelry
+7
+17.5
+Enchant Level 2 Jewelry
+27
+37
+Enchant Level 3 Jewelry
+49
+59
+Enchant Level 4 Jewelry
+57
+67
+Enchant Level 5 Jewelry
+68
+78
+Enchant Level 6 Jewelry
+87
+97.33
+Energy Transfer
+91
+100
+Enfeeble
+73
+83
+Entangle
+79
+91
+Falador Teleport
+37
+48
+Fertile Soil
+83
+87
+Fire Blast
+59
+34.5
+Fire Bolt
+35
+22.5
+Fire Wave
+75
+42.5
+Fishing Guild Teleport
+85
+89
+Flames of Zamorak
+60
+35
+Ghorrock Teleport
+96
+06
+Heal Group
+95
+124
+Heal Other
+92
+101
+High Level Alchemy
+55
+65
+House Teleport
+40
+30
+Humidify
+68
+65
+Hunter Kit
+71
+70
+Iban Blast
+50
+30
+Ice Barrage
+94
+52
+Ice Blitz
+82
+46
+Ice Burst
+70
+40
+Ice Rush
+58
+34
+Kharyryll Teleport
+6
+76
+Khazard Teleport
+78
+80
+Lassar Teleport
+72
+82
+Life Leech
+87
+97
+Low Alchemy
+21
+31
+Lucky lightning
+4
+9
+Lumbridge Teleport
+31
+41
+Magic Imbue
+82
+86
+Magic Dart
+50
+30
+Magical Poison
+27
+47
+Monster Examine
+66
+61
+Moonclan Teleport
+69
+66
+NPC Contact
+67
+63
+Paddewwa Teleport
+54
+64
+Plank Make
+86
+90
+Saradomin Strike
+60
+35
+Sea Curse
+24
+29
+Semmtisten Teleport
+60
+70
+Shadow Barrage
+88
+49
+Shadow Blitz
+76
+43
+Shadow Burst
+64
+37
+Shadow Rush
+52
+31
+Smoke Barrage
+86
+48
+Smoke Blitz
+74
+42
+Smoke Burst
+62
+36
+Smoke Rush
+50
+30
+Snare
+50
+60
+Spellbook Swap
+96
+130
+Stat Restore Pot Share
+81
+84
+Stat Spy
+75
+76
+Stringing Jewellery
+80
+83
+Stun
+80
+90
+Superglass Make
+77
+78
+Superheat Item
+43
+53
+Tan Leather
+78
+81
+Tele Group Barbarian
+76
+77
+Tele Group Catherby
+88
+80
+Tele Group Fishing Guild
+866
+90
+Tele Group Ice Plateau
+90
+99
+Tele Group Khazard
+79
+8
+Tele Group Moonclan
+70
+67
+Tele Group Waterbirth
+86
+95
+Telekenetic Grab
+33
+43
+Teleother Camelot
+90
+100
+Teleother Falador
+82
+92
+Teleother Lumbridge
+74
+84
+Teleport Catherby
+87
+92
+Teleport Ice Plateau
+89
+96
+Trollheim Teleport
+61
+68
+Varrock Teleport
+25
+35
+Vengeance
+94
+112
+Vengeance Other
+93
+108
+Vulnerability
+66
+76
+Watchtower Teleport
+58
+68
+Water Blast
+47
+28.5
+Water Bolt
+23
+16.5
+Water Strike
+5
+7.5
+Water Wave
+65
+37.5
+Waterbirth Teleport
+72
+71
+Weaken
+11
+21
+Wind Blast
+41
+25.5
+Wind Bolt
+17
+13.5
+Window Stike
+1
+5.5
+Wind Wave
+62
+36

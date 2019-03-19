@@ -1,0 +1,325 @@
+108
+Adamant Axe
+71
+62.5
+Adamant Bar
+70
+37.5
+Adamant Battleaxe
+80
+187.5
+Adamant Chainbody
+81
+187.5
+Adamant Dagger
+70
+62.5
+Adamant Full Helm
+77
+125
+Adamant Kiteshield
+82
+187.5
+Adamant Longsword
+76
+125
+Adamant Mace
+72
+62.5
+Adamant Med Helm
+73
+62.5
+Adamant Platebody
+88
+312.5
+Adamant Platelegs
+86
+187.5
+Adamant Plateskirt
+86
+187.5
+Adamant Scimitar
+75
+125
+Adamant Sq Shield
+78
+125
+Adamant Sword
+74
+62.5
+Adamant Two-Handed Sword
+84
+187.5
+Adamant Warhamer
+79
+187.5
+Bronze Axe
+1
+12.5
+Bronze Bar
+1
+6.25
+Bronze Battleaxe
+10
+37.5
+Bronze Chainbody
+11
+37.5
+Bronze Dagger
+1
+12.5
+Bronze Full Helm
+7
+25
+Bronze Kiteshield
+12
+37.5
+Bronze Longsword
+6
+25
+Bronze Mace
+2
+12.5
+Bronze Med Helm
+3
+12.5
+Bronze Platebody
+18
+62.5
+Bronze Platelegs
+16
+37.5
+Bronze Plateskirt
+16
+37.5
+Bronze Scimitar
+5
+25
+Bronze Sword
+4
+12.5
+Bronze Two-Handed Sword
+14
+37.5
+Bronze Warhammer
+9
+37.5
+Gold Bar
+40
+22.5
+Iron Axe
+16
+25
+Iron Bar
+15
+12.5
+Iron Battleaxe
+25
+75
+Iron Chainbody
+26
+75
+Iron Dagger
+15
+25
+Iron Full Helm
+22
+50
+Iron Kiteshield
+27
+75
+Iron Longsword
+21
+50
+Iron Mace
+17
+25
+Iron Med Helm
+18
+25
+Iron Platebody
+33
+125
+Iron Plateleg
+31
+75
+Iron Plateskirt
+31
+75
+Iron Scimitar
+20
+50
+Iron Sq Shield
+23
+50
+Iron Sword
+19
+25
+Iron Two-handed Sword
+29
+75
+Iron Warhammer
+24
+75
+Mithril Axe
+51
+50
+Mithril Bar
+50
+30
+Mithril Battleaxe
+60
+150
+Mithril Chainbody
+61
+150
+Mithril Dagger
+50
+50
+Mithril Full Helm
+57
+100
+Mithril Kiteshield
+62
+150
+Mithril Longsword
+56
+100
+Mithril Mace
+52
+50
+Mithril Med Helm
+53
+50
+Mithril Platebody
+68
+250
+Mithril Platelegs
+66
+150
+Mithril Plateskirt
+66
+150
+Mitrhil Scimitar
+55
+100
+Mithril Sq Shield
+58
+100
+Mithril Sword
+54
+50
+Mithril Two-Handed Sword
+64
+150
+Mithril Warhammer
+59
+150
+Rune Axe
+86
+75
+Rune Battleaxe
+95
+225
+Rune Chainbody
+96
+225
+Rune Dagger
+85
+75
+Rune Full Helm
+92
+150
+Rune Kiteshield
+97
+225
+Rune Longsword
+91
+150
+Rune Mace
+87
+75
+Rune Med Helm
+88
+75
+Rune Platebody
+99
+375
+Rune Platelegs
+99
+225
+Rune Plateskirt
+99
+225
+Rune Scimitar
+90
+150
+Rune Sq Shield
+93
+150
+Rune Sword
+89
+75
+Rune Two-Handed Sword
+99
+225
+Rune Warhammer
+94
+225
+Runite Bar
+85
+50
+Silver Bar
+20
+13.75
+Steel Axe
+31
+37.5
+Steel Battleaxe
+40
+112.5
+Steel Chainbody
+41
+112.5
+Steel Dagger
+30
+37.5
+Steel Full Helm
+37
+75
+Steel Kiteshield
+42
+112.5
+Steel Longsword
+36
+75
+Steel Mace
+32
+37.5
+Steel Med Helm
+33
+37.5
+Steel Platebody
+48
+187.5
+Steel Platelegs
+46
+112.5
+Steel Plateskirt
+46
+112.5
+Steel Scimitar
+35
+75
+Steel Sq Shield
+38
+75
+Steel Sword
+34
+37.5
+Steel Two-Handed Sword
+44
+112.5
+Steel Warhammer
+39
+112.5

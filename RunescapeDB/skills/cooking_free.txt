@@ -1,0 +1,67 @@
+22
+Anchovies
+1
+30
+Anchovy Pizza
+55
+182
+Apple Pie
+30
+130
+Bread
+1
+40
+Cake
+40
+180
+Chocolate Cake
+50
+210
+Herring
+5
+50
+Lobster
+40
+120
+Meat
+1
+30
+Meat Pie
+45
+169
+Meat Pizza
+45
+169
+Pike
+20
+80
+Plain Pizza
+35
+130
+Redberry Pie
+10
+78
+Salmon
+25
+90
+Sardine
+1
+40
+Shrimp
+1
+30
+Stew
+25
+117
+Swordfish
+45
+140
+Trout
+15
+70
+Tuna
+30
+100
+Wine
+35
+200

@@ -1,0 +1,73 @@
+24
+Adamant Armour
+28
+150
+CW Armour 1
+28
+135
+CW Armour 2
+28
+150
+CW Armour 3
+28
+165
+Carved Oak Table
+31
+360
+Crude Wooden Chair
+1
+58
+Darklight
+42
+202
+Decorative Rock
+5
+100
+Excalibur
+42
+194
+Mahogany Table
+52
+840
+Mithril Armour
+28
+135
+Oak Armchair
+26
+180
+Oak Chair
+19
+120
+Oak Larder
+33
+480
+Oak Table
+32
+180
+Pond
+10
+100
+Rocking CHair
+14
+87
+Runite Armour
+28
+165
+Silverlight
+42
+187
+Teak Larder
+43
+750
+Teak Table
+52
+270
+Wood Table
+12
+87
+Wooden Chair
+8
+87
+Wooden Larder
+9
+228

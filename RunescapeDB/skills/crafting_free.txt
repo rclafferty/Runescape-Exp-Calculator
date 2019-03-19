@@ -1,0 +1,118 @@
+39
+Boots
+7
+16.3
+Bowl
+8
+33
+Chaps
+18
+27
+Coif
+38
+37
+Cowl
+9
+18.5
+Diamond
+43
+107.5
+Diamond Amulet
+70
+100
+Diamond Bracelet
+58
+95
+Diamond Necklace
+56
+90
+Diamond Ring
+43
+85
+Emerald
+27
+67
+Emerald Amulet
+31
+70
+Emerald Bracelet
+31
+70
+Emerald Necklace
+29
+60
+Emerald Ring
+27
+55
+Gloves
+1
+13.8
+Gold Amulet (u)
+8
+30
+Gold Amulet (Strung)
+8
+34
+Gold Bracelet
+7
+25
+Gold Necklace
+6
+20
+Gold Ring
+5
+15
+Hard Leather Body
+28
+35
+Holy Symbol
+16
+50
+Leather Body
+14
+25
+Pie Dish
+7
+25
+Pot
+1
+12.6
+Ruby
+34
+85
+Ruby Amulet
+50
+85
+Ruby Bracelet
+42
+80
+Ruby Necklace
+40
+75
+Ruby Ring
+34
+70
+Sapphire
+20
+50
+Sapphire Amulet
+24
+65
+Sapphire Bracelet
+23
+60
+Sapphire Necklace
+22
+55
+Sapphire Ring
+20
+40
+Spinning Wool
+1
+2.75
+Tiara
+23
+52.5
+Vambraces
+11
+22

@@ -1,0 +1,91 @@
+29
+Achey Pyre Ship
+11
+40
+Artic Pine Log
+42
+75
+Artic Pine Pyre Ship
+52
+125
+Dorgeshuun Light Orb (1)
+52
+1000
+Dorgeshuun Light Orb (100)
+52
+105000
+Log
+1
+40
+Magic Log
+75
+303.75
+Magic Pyre Ship
+85
+303.8
+Mahogany Log
+50
+157.5
+Mahogany Pyre Ship
+60
+157.5
+Maple Log
+45
+135
+Maple Pyre Ship
+55
+135
+Oak Log
+15
+60
+Oak Pyre Ship
+25
+60
+Pyre Arctic Pine Log
+47
+157
+Pyre Log
+5
+50
+Pyre Magic Log
+80
+404.5
+Pyre Mahogany Log
+55
+210
+Pyre Oak Log
+20
+70
+Pyre Teak Log
+40
+120
+Pyre Willow Log
+35
+100
+Pyre Yew Log
+65
+255
+Redwood Log
+90
+380
+Teak Log
+35
+105
+Teak Pyre Ship
+45
+105
+Willow Log
+30
+90
+Willow Pyre Ship
+40
+90
+Wood Pyre Ship
+11
+40
+Yew Log
+60
+202.5
+Yew Pyre Ship
+70
+202.5

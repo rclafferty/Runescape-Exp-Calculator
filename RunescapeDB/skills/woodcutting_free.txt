@@ -1,0 +1,25 @@
+8
+Dugout Canoe
+27
+60
+Log
+1
+25
+Log Canoe
+12
+30
+Oak Log
+15
+37.5
+Stable Dugout Canoe
+42
+90
+Waka Canoe
+57
+150
+Willow Log
+30
+67.5
+Yew Log
+60
+175

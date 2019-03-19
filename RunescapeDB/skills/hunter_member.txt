@@ -1,0 +1,103 @@
+33
+Barb-Tailed Kebbit
+33
+168
+Black Salamander
+67
+319.5
+Black Warlock
+45
+54
+Black Chinchompa
+73
+315
+Carnivorous Chinchompa
+63
+265
+Cerulean Twitches
+11
+64.5
+Common Kebbit
+3
+36
+Copper Longtails
+9
+61
+Crimson Swift
+1
+34
+Dark Kebbit
+57
+132
+Dashing Kebbit
+69
+156
+Desert Devil
+13
+66
+Feldip Weasel
+7
+48
+Ferret
+27
+115
+Golden Warblers
+5
+47.5
+Grey Chinchompas
+53
+198.4
+Horned Graahk
+41
+240
+Imp
+71
+450
+Orange Salamander
+47
+224
+Polar Kebbit
+1
+30
+Prickly Kebbit
+37
+204
+Rabbit
+27
+144
+Razor-Backed Kebbit
+49
+348
+Red Salamander
+59
+272
+Ruby Harvest
+15
+24
+Sabre-Toothed Kebbit
+51
+200
+Sabre-Toothed Kyatt
+55
+300
+Sapphire Glacialis
+25
+34
+Snowy Knight
+35
+44
+Spined Larupia
+31
+180
+Spotted Kebbit
+43
+105
+Swamp Lizard
+29
+152
+Tropical Wagtail
+19
+95.5
+Wild Kebbit
+23
+128

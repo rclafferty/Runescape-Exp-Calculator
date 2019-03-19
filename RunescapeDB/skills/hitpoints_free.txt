@@ -1,0 +1,103 @@
+34
+Al-Kharid Warrior
+9
+24.67
+Ankou
+82
+86.67
+Barbarian (Level 9)
+9
+4.67
+Barbarian (Level 10)
+10
+6
+Barbarian (Level 17)
+17
+32
+Black Knight
+33
+56
+Chicken
+1
+4
+Cow
+2
+10.67
+Dark Wizard
+7
+16
+Deadly Red Spider
+34
+46.67
+Elemental Wizards
+13
+33.33
+Giant Spider
+50
+66.67
+Goblin (Level 2)
+2
+6.67
+Goblin (Level 5)
+5
+17.33
+Goblin (Level 13)
+13
+20
+Greater Demon
+92
+118.67
+Green Dragon
+79
+113.33
+Guard
+21
+29.33
+Hill Giant
+28
+46.67
+Hobgoblin (Level 28)
+28
+38.67
+Hobgoblin (Level 42)
+42
+65.33
+Ice Warrior
+57
+78.67
+Jail Guard
+26
+34.67
+Jungle Spider
+44
+66.67
+Lesser Demon
+82
+105.33
+Man / Woman
+2
+9.33
+Monk
+5
+21.33
+Moss Giant
+42
+80
+Pirate (Level 26)
+26
+30.67
+Skeleton (Level 21)
+21
+32
+Skeleton (Level 22)
+22
+38.67
+Skeleton (Level 25)
+25
+37.33
+Skeleton (Level 45)
+45
+78.67
+White Knight
+36
+70.67

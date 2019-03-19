@@ -1,0 +1,214 @@
+71
+Agility Mix
+37
+27
+Agility Potion
+34
+80
+Anti-Fire-Breath Mix
+75
+53
+Anti-Fire-Breath Potion
+69
+158
+Anti-Poison Mix
+6
+12
+Anti-Poison Potion
+5
+37.5
+Attack Mix
+4
+8
+Attack Potion
+3
+25
+Clean Avantoe
+48
+10
+Clean Cadantine
+65
+12.5
+Clean Dwarf Weed
+70
+13.75
+Clean Guam Leaf
+3
+2.5
+CLean Harralander
+20
+6.5
+Clean Irit Leaf
+40
+9
+Clean Kwarm
+54
+11.25
+Clean Lantadyme
+67
+13
+Clean Marrentill
+5
+3.75
+Clean Ranarr Weed
+25
+7.5
+Clean Snapdragon
+59
+11.8
+Clean Tarromin
+11
+5
+Clean Toadflax
+30
+8
+Clean Torstol
+75
+15
+Combat Mix
+40
+28
+Combat Mix
+40
+28
+Combat Potion
+36
+84
+Defence Mix
+33
+25
+Defence Potion
+30
+75
+Energy Mix
+29
+23
+Energy Potion
+26
+67.5
+Extra Strong Anti-Poison Mix
+74
+52
+Extra Strong Antiposion Potion
+68
+155
+Extra Strong Weapon Poison
+73
+165
+Fishing Mix
+53
+38
+Fishing Potion
+50
+113
+Hunter Mix
+58
+40
+Hunter Potion
+53
+120
+Magic Essence Potion
+57
+130
+Magic Essence Mix
+61
+42
+Magic Mix
+83
+57
+Magic Potion
+76
+172.5
+Prayer Potion
+38
+87.5
+Ranging Mix
+80
+54
+Ranging Potion
+72
+162.5
+Relicyms Balm
+8
+40
+Relicyms Balm Mix
+9
+14
+Restore Potion
+22
+62.5
+Restore Prayer Mix
+42
+29
+Sanfew Serum
+65
+160
+Saradomin Brew
+8
+180
+Serum 207
+15
+50
+Stat Restore Mix
+24
+21
+Strength Mix
+14
+17
+Strength Potion
+12
+50
+Super Strength Potion
+55
+125
+Super Anti-Poison Mix
+5
+35
+Super Anti-Poison Potion
+48
+106
+Super Attack Mix
+47
+33
+Super Attack Potion
+45
+100
+Super Combat Potion
+90
+150
+Super Defence Potion
+66
+150
+Super Defence Mix
+71
+50
+Super Energy Mix
+56
+39
+Super Energy Potion
+52
+117.5
+Super Resotre Mix
+67
+48
+Super Restore Potion
+63
+142
+Super Strength Mix
+59
+42
+Super-Strong Antipoison
+79
+177
+Super-Strong Weapon Poison
+82
+190
+Weapon Poison
+60
+137.5
+Zamorak Mix
+85
+58
+Zamorak Potion
+78
+175

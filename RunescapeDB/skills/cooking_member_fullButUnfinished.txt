@@ -1,0 +1,294 @@
+Admiral Pie
+70
+210
+Anchovies
+1
+30
+Anchovy Pizza
+55
+182
+Apple Pie
+30
+130
+Asgarnian Ale
+24
+248
+Axeman's Folly
+49
+413
+Baked Potato
+7
+15
+Baked Potato with Butter
+Baked Potato with Butter and Cheese
+Baked Potato with Chilli Con Carne
+Baked Potato with Egg and Tomato
+Baked Potato with Tuna and Sweetcorn
+Bass
+43
+130
+Beast Meat
+Bird Meat
+Blurberry Special
+37
+180
+Bread
+1
+40
+Butter
+Cake
+40
+180
+Cave Eel
+38
+115
+Cheese
+Cheese and Tomato Batta
+25
+150
+Chef's Delight
+54
+466
+Chicken
+Chilli Con Carne
+Chilli Potato
+41
+136
+Chocolate Bomb
+42
+190
+Chocolate Cake
+50
+210
+Chocolate Chip Crunchies
+16
+100
+Chocolate Saturday
+33
+170
+Churn Milk (Cheese)
+48
+64
+Churn Milk (Pat of Butter)
+38
+40
+Churn Milk (Pot of Cream)
+21
+18
+Chompy
+Cider
+14
+182
+Cod
+18
+75
+Cream
+Curry
+60
+280
+Dark Crab
+Dragon Bitter
+39
+347
+Drunk Dragon
+32
+160
+Dwarven Stout
+19
+215
+Egg Potato
+51
+191
+Fat Snail
+22
+95
+Fishcakes
+Fish Pie
+47
+164
+Fried Mushroom
+Fried Mushroom and Onion
+Fried Onion
+Fruit Batta
+25
+150
+Fruit Blast
+6
+50
+Garden Pie
+34
+138
+Greenman's Ale
+29
+281
+Herring
+5
+50
+Jubby
+Karambwan
+1
+190
+Karambwaji
+1
+30
+Lava Eel
+53
+140
+Lean Snail
+17
+80
+Lobster
+40
+120
+Mackerel
+10
+60
+Manta Ray
+91
+216
+Meat
+1
+30
+Meat Pie
+45
+169
+Meat Pizza
+45
+169
+Monkfish
+62
+150
+Moonlight Mead
+44
+380
+Mud Pie
+29
+128
+Mushroom Potato
+64
+230
+Nettle Tea
+20
+52
+Pike
+20
+80
+Pineapple Pizza
+65
+195
+Pineapple Punch
+8
+70
+Pitta Bread
+Plain Pizza
+35
+130
+Potato with Butter
+39
+55
+Potato with Cheese
+47
+95
+Rabbit
+Rainbow Fish
+35
+110
+Redberry Pie
+10
+78
+Salmon
+25
+90
+Sardine
+1
+40
+Scrambled Egg
+Scrambled Egg and Tomato
+Sea Turtle
+82
+212
+Shark
+80
+210
+Short Green Guy (SGG)
+20
+120
+Shrimp
+1
+30
+Sinew
+Slayer's Respite
+59
+479
+Slimy Eel
+28
+95
+Spice Crunchies
+12
+100
+Spicy Sauce
+Spider
+Stew
+25
+117
+Summer Pie
+95
+270
+Sweetcorn
+21
+104
+Swordfish
+45
+140
+Tangled Toad Legs
+40
+185
+Thin Snail
+12
+70
+Toad Batta
+26
+152
+Toad Crunchies
+10
+100
+Trout
+15
+70
+Tuna
+30
+100
+Tuna and Sweetcorn
+Tuna Potato
+68
+310
+Ugthanki Kebab
+1
+80
+Vegetable Ball
+35
+175
+Vegetable Batta
+28
+156
+Wild Pie
+85
+240
+Wine
+35
+200
+Wizard Blizzard
+18
+110
+Wizard's Mind Bomb
+34
+313
+Worm Batta
+27
+154
+Worm Crunchies
+14
+100
+Worm Hole
+30
+170

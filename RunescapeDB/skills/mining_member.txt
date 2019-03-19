@@ -1,0 +1,76 @@
+25
+Adamantite Ore
+70
+95
+Blurite Ore
+10
+17.5
+Clay
+1
+5
+Coal
+30
+50
+Copper Ore
+1
+17.5
+Elemental Ore
+20
+40
+Gold Ore
+40
+65
+Granite (Medium)
+45
+75
+Granite (Small)
+45
+60
+Granite (Tiny)
+45
+50
+Iron Ore
+15
+35
+Limestone
+10
+26.5
+Mithril Ore
+55
+80
+Pay-Dirt
+30
+60
+Pure Essence
+30
+5
+Rockslide
+30
+10
+Rune Essence
+1
+5
+Runite Ore
+85
+125
+Sandstone (1 KG)
+35
+30
+Sandstone (2 KG)
+35
+40
+Sandstone (5 KG)
+35
+50
+Sandstone (10 KG)
+35
+60
+Semi-Precious Gem
+40
+65
+Silver Ore
+20
+40
+Tin Ore
+1
+17.5

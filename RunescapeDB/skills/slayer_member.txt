@@ -1,0 +1,154 @@
+50
+Aberrant Spectres
+5
+16
+Abyssal Demons
+5
+19
+Abyssal Sires
+7
+05
+Banshees
+7
+93
+Basilisks
+10
+22
+Bloodvelds
+15
+22
+Brine Rats
+17
+25
+Cave Bugs (Level 6)
+20
+27
+Cave Bugs (Level 96)
+22
+15
+Cave Crawlers
+22
+25
+Cave Horrors
+22
+40
+Cave Kraken
+25
+37
+Cave Slime
+30
+45
+Cerberus
+32
+48
+Cockatrice
+33
+26
+Crawling Hand (Level 12)
+35
+105
+Crawling Hands (Level 8)
+37
+51
+Dark Beasts
+39
+52
+Desert Lizard (Level 42)
+40
+75
+Desert Lizards (Level 12)
+40
+50
+Desert Lizards (Level 24)
+40
+85
+Dust Devils
+40
+85
+Fever Spiders
+40
+89
+Gargoyles
+42
+40
+Harpie Bug Swarms
+45
+60
+Infernal Mages
+50
+120
+Jellies
+50
+120
+Killerwatts
+52
+75
+Kurask
+55
+76
+Mogres
+55
+77
+Molanisks
+55
+79
+Mutated Zygomites (Level 74)
+55
+81
+Mutated Zygomites (Level 86)
+57
+65
+Nechryael
+57
+75
+Pyrefiends
+58
+55
+Rockslugs
+60
+90
+Sea Snakes (Level 62)
+63
+90
+Sea Snakes (Level 90)
+65
+105
+Skeletal Wyverns
+68
+134
+Smoke Devil
+70
+97
+Spiritual Mages
+72
+210
+Spiritual Rangers
+111
+105
+Spiritual Warriors
+80
+105
+Steel Dragons
+1
+220.5
+Terror Dogs (Level 100)
+83
+106
+Terror Dogs (Level 110)
+85
+150
+Turoth (Level 83)
+85
+150
+Turoth (Level 85)
+87
+125
+Turoth (Level 87)
+90
+226
+Turoth (Level 89)
+91
+690
+Wall Beasts
+93
+185

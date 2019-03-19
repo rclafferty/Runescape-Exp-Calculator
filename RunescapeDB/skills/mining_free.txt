@@ -1,0 +1,34 @@
+11
+Adamantite Ore
+70
+95
+Clay
+1
+5
+Coal
+30
+50
+Copper Ore
+1
+17.5
+Gold Ore
+40
+65
+Iron Ore
+15
+35
+Mithril Ore
+55
+80
+Rune Essence
+1
+5
+Runite Ore
+85
+125
+Silver Ore
+20
+40
+Tin Ore
+1
+17.5

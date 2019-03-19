@@ -1,0 +1,94 @@
+31
+Bind
+20
+30
+Bones To Bananas
+15
+25
+Confuse
+3
+13
+Crumble Undead
+39
+24.5
+Curse
+19
+29
+Earth Blast
+53
+31.5
+Earth Bolt
+29
+19.5
+Earth Strike
+9
+9.5
+Enchant Level 1 Jewelry
+7
+17.5
+Enchant Level 2 Jewelry
+27
+37
+Enchant Level 3 Jewelry
+49
+59
+Enchant Level 4 Jewelry
+57
+67
+Enchant Level 5 Jewelry
+68
+78
+Enchant Level 6 Jewelry
+87
+97.33
+Falador Teleport
+37
+48
+Fire Blast
+59
+34.5
+Fire Bolt
+35
+22.5
+Fire Strike
+13
+11.5
+High Level Alchemy
+55
+65
+Low Level Alchemy
+21
+31
+Lumbridge Teleport
+31
+41
+Superheat Item
+43
+53
+Telekenetic Grab
+33
+43
+Varrock Teleport
+25
+35
+Water Blast
+47
+28.5
+Water Bolt
+23
+16.5
+Water Strike
+5
+7.5
+Weaken
+11
+21
+Wind Blast
+41
+25.5
+Wind Bolt
+17
+13.5
+Window Stike
+1
+5.5

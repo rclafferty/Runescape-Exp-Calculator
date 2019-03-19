@@ -1,0 +1,79 @@
+26
+Anchovy
+15
+40
+Bass
+46
+100
+Cave Eel
+38
+80
+Cod
+23
+45
+Dark Crab
+85
+130
+Giant Frogspawn
+33
+75
+Herring
+10
+30
+Karambwan
+65
+105
+Karambanji
+5
+5
+Lava Eel
+53
+60
+Lobster
+40
+90
+Mackerel
+16
+20
+Manta Ray
+81
+46
+Monkfish
+62
+120
+Pike
+25
+60
+Rainbow Fish
+38
+80
+Sacred Eel
+87
+105
+Salmon
+30
+70
+Sardine
+5
+20
+Sea Turtle
+79
+38
+Shark
+76
+110
+Slimey Eel
+28
+65
+Shrimp
+1
+10
+Swordfish
+50
+100
+Trout
+20
+50
+Tuna
+35
+80

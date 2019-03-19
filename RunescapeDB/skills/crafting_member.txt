@@ -1,0 +1,334 @@
+111
+Achey Pyre Ship
+11
+10
+Air Battlestaff
+6
+137.5
+Artic Pine Pyre Ship
+52
+31.2
+Beer Glass
+1
+17.5
+Black Dragonhide Body
+84
+258
+Black Dragonhide Chaps
+82
+172
+Black Dragonhide Vambraces
+79
+86
+Blue Dragonhide Body
+71
+210
+Blue Dragonhide Chaps
+68
+140
+Blue Dragonhide Vambraces
+66
+70
+Boots
+7
+16.3
+Bowl
+8
+33
+Broodoo Shield
+35
+100
+Candle Lantern
+4
+19.5
+Chaps
+18
+27
+Coif
+38
+37
+Cowl
+9
+18.5
+Crab Claw
+15
+32.5
+Crab Helmet
+15
+32.5
+Diamond
+43
+107.5
+Diamond Amulet
+70
+100
+Diamond Bracelet
+58
+95
+Diamond Necklace
+56
+90
+Diamond Ring
+43
+85
+Dorgeshuun Light Orb
+87
+70
+Dragonstone
+55
+137.5
+Dragonstone Amulet
+80
+150
+Dragonstone Bracelet
+74
+110
+Dragonstone Necklace
+72
+105
+Dragonstone Ring
+55
+100
+Earth Battlestaff
+58
+112.5
+Emerald
+27
+67
+Emerald Amulet
+31
+70
+Emerald Bracelet
+31
+70
+Emerald Necklace
+29
+60
+Emerald Ring
+27
+55
+Fire Battlestaff
+62
+125
+Fish Bowl
+42
+42.5
+Fremennik Roundshield
+56
+34
+Fruit Basket
+36
+56
+Gloves
+1
+13.8
+Gold Amulet
+8
+30
+Gold Bracelet
+7
+25
+Gold Necklace
+6
+20
+Gold Ring
+5
+15
+Green Dragonhide Body
+63
+186
+Green Dragonhide Chaps
+60
+124
+Green Dragonhide Vambraces
+57
+62
+Hard Leather Body
+28
+35
+Holy Symbol
+16
+50
+Jade
+13
+20
+Lantern Lens
+49
+55
+Leather Body
+14
+25
+Limestone Bricks
+14
+25
+Magic Pyre Ship
+85
+75.9
+Magic Tree Roots
+19
+30
+Mahogany Pyre Ship
+60
+39.3
+Magic Pyre Ship
+55
+33.7
+Molten Glass
+1
+20
+Oak Pyre Ship
+25
+15
+Oil Lamp
+12
+25
+Onyx
+67
+167.5
+Onyx Amulet
+90
+170
+Onyx Bracelet
+84
+125
+Onyx Necklace
+82
+160
+Onyx Ring
+67
+155
+Opal
+1
+15
+Pie Dish
+7
+25
+Plant Pot
+19
+35
+Polished Buttons
+3
+5
+Pot
+1
+12.6
+Pot lid
+25
+40
+Red Dragonhide Body
+77
+234
+Red Dragonhide Chaps
+75
+156
+Red Dragonhide Vambraces
+73
+78
+Red Topaz
+16
+25
+Ruby
+34
+85
+Ruby Amulet
+50
+85
+Ruby Bracelet
+42
+80
+Ruby Necklace
+40
+75
+Ruby Ring
+34
+70
+Sapphire
+20
+50
+Sapphire Amulet
+24
+65
+Sapphire Bracelet
+23
+60
+Sapphire Necklace
+22
+55
+Sapphire Ring
+20
+40
+Silver Bolt
+21
+5
+Silver Sickle
+18
+50
+Sinew
+10
+15
+Snakeskin Bandana
+53
+55
+Snakeskin Boots
+45
+30
+Snakeskin Chaps
+51
+50
+Snakeskin Vambraces
+47
+35
+Snelm Helmets
+15
+32.5
+Spinning Flax
+10
+15
+Spinning Wool
+1
+2.75
+Studded Leather Body
+41
+65
+Studded Leather Chaps
+44
+69
+Teak Pyre Ship
+45
+26.2
+Tiara
+23
+52.5
+Unholy Symbol
+16
+50
+Unpowered Orb
+46
+52.5
+Vambraces
+11
+22
+Vegetable Sack
+21
+3
+Vial
+33
+35
+Water Battlestaff
+54
+100
+Willow Pyre Ship
+40
+22.5
+Wood Pyre Ship
+11
+10
+Yak-Hide Armour
+46
+32
+Yak-Hide Legs
+43
+32
+Yew Pyre Ship
+70
+50.6

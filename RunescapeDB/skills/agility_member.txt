@@ -1,0 +1,64 @@
+21
+Al-Kharid Rooftop Course
+20
+180
+Ardougne Rooftop Course
+90
+793
+Canifis Rooftop Course
+40
+240
+Dorgesh-Kaan Graple To And Back
+70
+2750
+Draynor Village Rooftop Course
+10
+120
+Falador Rooftop Course
+50
+440
+Full Ape Atoll Agility Course
+48
+580
+Full Barbarian Outpost Agility Course
+35
+153.2
+Full Gnome Stronghold Agility Course
+1
+86.5
+Full Penguin Course
+30
+540
+Full Agility Pyramid Course
+30
+1022
+Full Werewolf Agility Course
+61
+540
+Full Wilderness Agility Course
+52
+571.5
+Pollnivneach Rooftop Course
+70
+890
+Relleka Rooftop Course
+80
+780
+Seers Village Rooftop Course
+60
+570
+Varrock Rooftop Course
+30
+238
+Yanille Dungeon (Balancing Ledge)
+40
+22
+Yanille Dungeon (Monkey Bars)
+57
+20
+Yanille Dungeon (Obstacle Pipe)
+29
+7.5
+Yanille Dungeon (Pile of Rubble)
+67
+55

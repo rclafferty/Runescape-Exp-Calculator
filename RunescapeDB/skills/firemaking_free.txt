@@ -1,0 +1,16 @@
+5
+Log
+1
+40
+Maple Log
+45
+135
+Oak Log
+15
+60
+Willow Log
+30
+90
+Yew Log
+60
+202.5
