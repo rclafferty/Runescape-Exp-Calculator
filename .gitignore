@@ -1,0 +1,9 @@
+GUI/packages/
+
+.vs/
+bin/
+obj/
+Debug/
+Release/
+
+*.suo

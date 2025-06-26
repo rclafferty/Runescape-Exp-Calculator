@@ -1,3 +1,5 @@
+USE osrs;
+
 INSERT INTO runescapeSkills(name, membership) VALUES ('AGILITY', 'MEMBER');
 INSERT INTO runescapeSkills(name, membership) VALUES ('ATTACK', 'FREE');
 INSERT INTO runescapeSkills(name, membership) VALUES ('CONSTRUCTION', 'MEMBER');

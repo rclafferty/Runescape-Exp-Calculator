@@ -428,10 +428,10 @@ namespace ExpGuiThreePointOh
         private MySqlConnection GetConnection()
         {
             //Credentials
-            string user = "user";
-            string pass = "password";
-            string server = "server";
-            string database = "database";
+            string user = "casey";
+            string pass = "9139800216";
+            string server = "192.168.1.7";
+            string database = "osrs";
 
             //Create the Connection String
             MySqlConnectionStringBuilder mscsb = new MySqlConnectionStringBuilder();
@@ -440,6 +440,7 @@ namespace ExpGuiThreePointOh
             mscsb.Add("User", user);
             mscsb.Add("Password", pass);
             mscsb.Add("Connection Timeout", 120);
+            mscsb.Add("SslMode", "None");
 
             //Return a new connection using the connection string
             return new MySqlConnection(mscsb.ToString());
